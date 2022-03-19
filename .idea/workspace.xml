@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="524f4f00-976a-4491-82ee-09ee6b3244e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26bVYQNwRRBqi8WKl2ZYRf7TJLV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Modulo1" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Modulo1" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="524f4f00-976a-4491-82ee-09ee6b3244e2" name="Default Changelist" comment="" />
+      <created>1647692319823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647692319823</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Primeiro upload dos arquivos">
+      <created>1647694238614</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647694238615</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dropped files">
+      <created>1647694348200</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647694348200</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Dropped files">
+      <created>1647694406332</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647694406332</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro upload dos arquivos" />
+    <MESSAGE value="Dropped files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dropped files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="296" y="34" key="CommitChangelistDialog2" timestamp="1647694532054">
+      <screen x="0" y="25" width="1440" height="822" />
+    </state>
+    <state x="296" y="34" key="CommitChangelistDialog2/0.25.1440.822@0.25.1440.822" timestamp="1647694532054" />
+    <state x="229" y="70" key="SettingsEditor" timestamp="1647694195307">
+      <screen x="0" y="25" width="1440" height="822" />
+    </state>
+    <state x="229" y="70" key="SettingsEditor/0.25.1440.822@0.25.1440.822" timestamp="1647694195307" />
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2" timestamp="1647694245128">
+      <screen x="0" y="25" width="1440" height="822" />
+    </state>
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.25.1440.822@0.25.1440.822" timestamp="1647694245128" />
+  </component>
+</project>
